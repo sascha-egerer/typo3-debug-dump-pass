@@ -4,8 +4,8 @@
     "keywords": ["dev", "refactoring"],
     "type": "typo3-cms-extension",
     "require": {
-        "symfony/dependency-injection": "^5.0 || ^6.0 || ^7.0",
-        "symfony/config": "^5.0 || ^6.0 || ^7.0",
+        "symfony/dependency-injection": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+        "symfony/config": "^5.0 || ^6.0 || ^7.0 || ^8.0",
         "typo3/cms-core": "^10.4 || ^11.5 || ^12.4 || ^13.0 || ^14.0"
     },
     "license": "MIT",
